@@ -1,0 +1,22 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "服务端实现 websocket 协议",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simdd/websocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simdd/websocket/issues"
+  },
+  "homepage": "https://github.com/simdd/websocket#readme",
+  "dependencies": {
+    "parcel": "^1.12.3"
+  }
+}
